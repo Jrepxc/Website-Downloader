@@ -13,6 +13,10 @@ Installation
 ------------
 ```cd to the dir```
 
+Changing URL
+------------
+open file in editor
+insert url
 
 Running dwm
 -----------
