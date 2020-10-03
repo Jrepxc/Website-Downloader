@@ -1,6 +1,6 @@
-dwm - dynamic window manager
+Website Scraper/Downloader
 ============================
-dwm is an extremely fast, small, and dynamic window manager for X.
+downloads the source of a website
 
 
 Requirements
